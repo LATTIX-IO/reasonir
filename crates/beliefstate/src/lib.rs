@@ -1,4 +1,4 @@
-//! belief.
+//! beliefstate.
 //!
 //! Part of the reasonir open-source project maintained by
 //! Lattix Technologies Corp.
